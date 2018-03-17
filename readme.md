@@ -1,7 +1,7 @@
 # DERRICK'S BLOG
 #### My Blog created on, 17.03.2018
 #### By **Derrick**
-![GitHub Logo](images/deryq.jpg)
+![GitHub Logo](../images/deryq.jpg)
 
 ## Description
 This is a portfolio blog i created as a part of my assignment at moringa school.
