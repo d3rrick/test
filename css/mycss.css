@@ -4,7 +4,7 @@ body{
 }
 
 #landingpt{
-	background-image: url("b1.jpg");
+	background-image: url("../images/b1.jpg");
 	 background-attachment: fixed;
 	margin: 0;
 
@@ -95,7 +95,7 @@ span{
 	margin: 1px;
 	/*margin-top: 30px;*/
 
-	
+
 }
 ul.projects{
 	list-style-type: none;
@@ -120,7 +120,7 @@ li.projects a:hover{
 .hobbies{
 	text-align: center;
 	margin: 1px;
-	
+
 }
 ul.hobbies{
 	list-style-type:none;
@@ -135,7 +135,7 @@ li.hobbies{
 
 
 ::selection {
-	color: red; 
+	color: red;
     background: yellow;
 }
 
