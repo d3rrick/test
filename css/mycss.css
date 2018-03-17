@@ -1,0 +1,174 @@
+body{
+	margin: 0;
+
+}
+
+#landingpt{
+	background-image: url("b1.jpg");
+	 background-attachment: fixed;
+	margin: 0;
+
+	height: 500px;
+}
+ul.ul1 {
+    list-style-type: none;
+    margin-top:0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #c4e0e800;
+
+}
+ul.ul1 img{
+	float: left;
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	padding-left: 10%;
+	padding-right: 10%;
+
+}
+
+li.ul1 {
+    float: right;
+}
+li.ul1 {
+    float: right;
+
+}
+li.ul1 a {
+    display:block;
+    color: #484725fc;
+    font-size: 25px;
+    text-align: center;
+    padding: 50px 10px 50px 10px;
+    margin-right: 30px;
+    text-decoration: none;
+}
+
+li.ul1 a:hover {
+    background-color: #ececec00;
+     color: white;
+     font-size: 30px;
+}
+.blogpic{
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+
+}
+
+h1{
+	color:#0aa3e2;
+	font-size: 40px;
+}
+h4{
+	font-size: 20px;
+}
+h3{
+	font-family: sans-serif;
+	letter-spacing: 1px;
+	font-style: italic;
+}
+small{
+	color:red;
+}
+
+.osts{
+	text-align: center;
+}
+.osts h1{
+	color:orange;
+	font-size: 50px;
+	font-family: serif;
+	padding-top: 2%;
+
+}
+span{
+	font-size: 15px;
+}
+#about{
+	text-align: center;
+	padding-top: 90px;
+}
+.projects{
+	text-align: center;
+	margin: 1px;
+	/*margin-top: 30px;*/
+
+	
+}
+ul.projects{
+	list-style-type: none;
+
+}
+
+li.projects a{
+	display:block;
+    color: #1c9822fc;
+    font-size: 25px;
+    text-align: center;
+    /*padding: 50px 10px 50px 10px;*/
+    margin-right: 30px;
+    text-decoration: none;
+}
+li.projects a:hover{
+	font-size: 30px;
+	color:#0aa3e2;
+}
+
+
+.hobbies{
+	text-align: center;
+	margin: 1px;
+	
+}
+ul.hobbies{
+	list-style-type:none;
+
+}
+li.hobbies{
+	display: inline-block;
+	color: #3b5d6ffc;
+    font-size: 25px;
+    margin-bottom: 100px;
+}
+
+
+::selection {
+	color: red; 
+    background: yellow;
+}
+
+.footer{
+	background-color: #d4edef;
+	text-align: center;
+	margin: 1px 0px 30px 0px;
+}
+ul.footer{
+	list-style-type: none
+}
+li.footer{
+	display: inline-block;
+}
+li.footer a {
+    display:block;
+    color: #1c9822fc;
+    font-size: 25px;
+    text-align: center;
+    padding: 50px 10px 50px 10px;
+    margin-right: 30px;
+    text-decoration: none;
+    margin-bottom: 10px;
+}
+
+li.footer a:hover {
+    /*background-color: #00a3b5;*/
+     color: white;
+     font-size: 30px;
+}
+.divide{
+	text-align: center;
+	margin: 80px;
+	font-size: 50px;
+
+}
